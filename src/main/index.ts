@@ -1,5 +1,6 @@
 import { BrowserWindow, app } from "electron";
 
+
 let mainWindow: BrowserWindow | null;
 const winURL =
   process.env.NODE_ENV === "development"
@@ -11,7 +12,7 @@ function createWindow() {
    * Initial window options
    */
   mainWindow = new BrowserWindow({
-    height: 563,
+    height: 650,
     useContentSize: true,
     width: 1000
   });
@@ -21,6 +22,9 @@ function createWindow() {
   mainWindow.on("closed", () => {
     mainWindow = null;
   });
+  //mainWindow.webContents.openDevTools();
+  
+  
 }
 
 app.on("ready", createWindow);

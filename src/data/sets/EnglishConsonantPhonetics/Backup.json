@@ -1,0 +1,3797 @@
+{
+  "SetID": "aed0240a-7e7f-4742-8805-6c543c95ce88",
+  "Cards": [
+    {
+      "Name": "[f]",
+      "ID": "2f7e4580-7d23-4776-861c-cf6635740dcc"
+    },
+    {
+      "Name": "[ð]",
+      "ID": "d32e46cf-bcbf-4cbc-a1fb-2b2fe8010f9c"
+    },
+    {
+      "Name": "[ŋ]",
+      "ID": "82ef3c9d-bf27-46df-8912-8dd0ef946060"
+    },
+    {
+      "Name": "[p]",
+      "ID": "6a5998c6-52d2-478b-8f29-7758c24dff7f"
+    },
+    {
+      "Name": "[b]",
+      "ID": "434fdf06-aa14-4c4b-9a58-02987d898160"
+    },
+    {
+      "Name": "[t]",
+      "ID": "250b00b1-b77d-44b5-bc98-f553ccbc6537"
+    },
+    {
+      "Name": "[d]",
+      "ID": "db1c2fde-ccfd-4714-a282-8a674f69f2aa"
+    },
+    {
+      "Name": "[k]",
+      "ID": "b6f31872-efe4-4fd0-b706-e55fb881af66"
+    },
+    {
+      "Name": "[g]",
+      "ID": "df7c42ac-c8d4-4c5d-9a12-8af7eff3606a"
+    },
+    {
+      "Name": "[m]",
+      "ID": "0b725f44-44fd-45ce-8aaf-f30a0b28da6a"
+    },
+    {
+      "Name": "[n]",
+      "ID": "ce48ae2e-60fd-42b6-a98c-254e633b0d37"
+    },
+    {
+      "Name": "[v]",
+      "ID": "f94151ad-5531-4c7a-a532-3256e6154403"
+    },
+    {
+      "Name": "[θ]",
+      "ID": "e5fa387a-ebcf-400d-aa21-bfbc1545572f"
+    },
+    {
+      "Name": "[s]",
+      "ID": "8ba77f98-42c7-4f68-9390-5e5be6b31b29"
+    },
+    {
+      "Name": "[z]",
+      "ID": "a561d0b6-15df-4136-9c3c-01e54288dba2"
+    },
+    {
+      "Name": "[ʃ]",
+      "ID": "501b4821-2704-4d8c-a928-e3fc7b920a2c"
+    },
+    {
+      "Name": "[ʒ]",
+      "ID": "22252ddd-a405-48f1-8d1b-8fe1abb0f434"
+    },
+    {
+      "Name": "[h]",
+      "ID": "6ea6753b-91d6-48de-a330-ae87047aa9a6"
+    },
+    {
+      "Name": "[tʃ]",
+      "ID": "7d8a61fd-614b-4faa-8472-03f0616db256"
+    },
+    {
+      "Name": "[dʒ]",
+      "ID": "887fe08f-aaeb-438d-a8cd-fca083d2cb02"
+    },
+    {
+      "Name": "[ɹ]",
+      "ID": "285f82f2-9c90-4be1-a5f3-4ef482009a6a"
+    },
+    {
+      "Name": "[l]",
+      "ID": "748de959-2d96-477b-8f3f-494815bc2f36"
+    },
+    {
+      "Name": "[j]",
+      "ID": "cfef95bb-af82-42b7-b34a-5bff77e44747"
+    },
+    {
+      "Name": "[w]",
+      "ID": "1dec0fe0-0ee2-4d92-8264-95ccc63c1e80"
+    },
+    {
+      "Name": "[ʔ]",
+      "ID": "7bbf3492-e52f-45e4-a9f8-18a1fe0b7a82"
+    }
+  ],
+  "CardDetails": [
+    {
+      "SkillLevel": 99.0344277864768,
+      "FromSection": {
+        "Content": "[k]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "e175c6e1-1ddc-49c4-8cec-fd9311ef6633",
+      "CardID": "b6f31872-efe4-4fd0-b706-e55fb881af66"
+    },
+    {
+      "SkillLevel": 99.07883243212366,
+      "FromSection": {
+        "Content": "[k]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiceless",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "c68d3b8e-a65c-45f6-89c4-288ee551accb",
+      "CardID": "b6f31872-efe4-4fd0-b706-e55fb881af66"
+    },
+    {
+      "SkillLevel": 98.0091543226134,
+      "FromSection": {
+        "Content": "[h]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiceless",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "e240bd11-644a-43d6-a551-53dbe7e4077d",
+      "CardID": "6ea6753b-91d6-48de-a330-ae87047aa9a6"
+    },
+    {
+      "SkillLevel": 98.41090399095425,
+      "FromSection": {
+        "Content": "biD, Deal",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[d]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "3f524cb4-596a-b947-b64d-89515dd84b16",
+      "CardID": "db1c2fde-ccfd-4714-a282-8a674f69f2aa"
+    },
+    {
+      "SkillLevel": 98.52301384258084,
+      "FromSection": {
+        "Content": "d56474e0-44bb-4e7b-9388-550d6fdc7bc3",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[t]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "3487a3e4-1bad-41d1-a523-0eabc6d1808e",
+      "CardID": "250b00b1-b77d-44b5-bc98-f553ccbc6537"
+    },
+    {
+      "SkillLevel": 98.30965029149846,
+      "FromSection": {
+        "Content": "[tʃ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Affricate",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "0d93e0e4-89ad-4ef9-b4a0-852420f17893",
+      "CardID": "7d8a61fd-614b-4faa-8472-03f0616db256"
+    },
+    {
+      "SkillLevel": 99.11891122159976,
+      "FromSection": {
+        "Content": "[ɹ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiced",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "748de959-2d96-477b-8f3f-494815bc2f36",
+      "CardID": "285f82f2-9c90-4be1-a5f3-4ef482009a6a"
+    },
+    {
+      "SkillLevel": 98.85613011628547,
+      "FromSection": {
+        "Content": "[f]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Labiodental",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "61f8d8ff-ad8c-42f1-b382-ef7c336bcd1b",
+      "CardID": "2f7e4580-7d23-4776-861c-cf6635740dcc"
+    },
+    {
+      "SkillLevel": 99.56738211539928,
+      "FromSection": {
+        "Content": "LiLLy, kettLE",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[l]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "9e3e5a6a-5c36-b2d0-1501-5d6ba63330f9",
+      "CardID": "748de959-2d96-477b-8f3f-494815bc2f36"
+    },
+    {
+      "SkillLevel": 99.80816362817508,
+      "FromSection": {
+        "Content": "Yellow, Yak",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[j]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "7b138dc3-7888-545e-4394-5512dfe7764b",
+      "CardID": "cfef95bb-af82-42b7-b34a-5bff77e44747"
+    },
+    {
+      "SkillLevel": 99.64145930127327,
+      "FromSection": {
+        "Content": "[s]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "a32fc03c-579b-4dc6-9ace-b0689e69d14f",
+      "CardID": "8ba77f98-42c7-4f68-9390-5e5be6b31b29"
+    },
+    {
+      "SkillLevel": 99.82786107223576,
+      "FromSection": {
+        "Content": "[ʃ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "a9de5059-72fe-49c9-96bb-399041db7b2a",
+      "CardID": "501b4821-2704-4d8c-a928-e3fc7b920a2c"
+    },
+    {
+      "SkillLevel": 99.6173337075033,
+      "FromSection": {
+        "Content": "Zoo, buSiness",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[z]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "f8759701-0051-cea6-dcd0-9f913f55b379",
+      "CardID": "a561d0b6-15df-4136-9c3c-01e54288dba2"
+    },
+    {
+      "SkillLevel": 98.34185370024149,
+      "FromSection": {
+        "Content": "[ð]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "79864649-5b4e-4a0a-9bed-83acaf9730e0",
+      "CardID": "d32e46cf-bcbf-4cbc-a1fb-2b2fe8010f9c"
+    },
+    {
+      "SkillLevel": 99.42780593662452,
+      "FromSection": {
+        "Content": "[dʒ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Affricate",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "ec4abda4-a00b-4fcb-9de3-1de62bf74c9b",
+      "CardID": "887fe08f-aaeb-438d-a8cd-fca083d2cb02"
+    },
+    {
+      "SkillLevel": 99.35974523349438,
+      "FromSection": {
+        "Content": "moTHer, THese",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[ð]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "91f5a498-f368-2c39-cea4-4d9632a94ee2",
+      "CardID": "d32e46cf-bcbf-4cbc-a1fb-2b2fe8010f9c"
+    },
+    {
+      "SkillLevel": 98.48998624944933,
+      "FromSection": {
+        "Content": "c28c6b2b-c40a-45d3-9d4a-eaa162c7dbb0",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[h]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "609d251b-71d9-40cd-804a-51f9f6463642",
+      "CardID": "6ea6753b-91d6-48de-a330-ae87047aa9a6"
+    },
+    {
+      "SkillLevel": 99.77958994030075,
+      "FromSection": {
+        "Content": "[tʃ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "ab585aca-f7a2-41a1-8ded-bec3caf73658",
+      "CardID": "7d8a61fd-614b-4faa-8472-03f0616db256"
+    },
+    {
+      "SkillLevel": 99.85383504165371,
+      "FromSection": {
+        "Content": "[j]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Glide",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "c2eaf06e-b860-4803-8fd4-82fd8e224f4e",
+      "CardID": "cfef95bb-af82-42b7-b34a-5bff77e44747"
+    },
+    {
+      "SkillLevel": 99.71840449130214,
+      "FromSection": {
+        "Content": "[g]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "c318ba41-810a-4009-9f84-c798d89cd191",
+      "CardID": "df7c42ac-c8d4-4c5d-9a12-8af7eff3606a"
+    },
+    {
+      "SkillLevel": 99.09290031235392,
+      "FromSection": {
+        "Content": "[p]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiceless",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "06ec9637-2336-433c-bca1-6c33786845ef",
+      "CardID": "6a5998c6-52d2-478b-8f29-7758c24dff7f"
+    },
+    {
+      "SkillLevel": 98.3085070975877,
+      "FromSection": {
+        "Content": "[ð]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Interdental",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "2872b20c-3ecf-4ab6-9e4d-54bdde05d3a1",
+      "CardID": "d32e46cf-bcbf-4cbc-a1fb-2b2fe8010f9c"
+    },
+    {
+      "SkillLevel": 98.35647149883464,
+      "FromSection": {
+        "Content": "[dʒ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiced",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "b1daf947-db58-4480-9b71-90eae9500bf9",
+      "CardID": "887fe08f-aaeb-438d-a8cd-fca083d2cb02"
+    },
+    {
+      "SkillLevel": 98.6382752809478,
+      "FromSection": {
+        "Content": "WindoW, Witte",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[w]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "ab31fe0e-f1e3-db1b-e7c5-542809dd9bba",
+      "CardID": "1dec0fe0-0ee2-4d92-8264-95ccc63c1e80"
+    },
+    {
+      "SkillLevel": 99.37220825564914,
+      "FromSection": {
+        "Content": "[ɹ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Liquid",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "509151d9-57b0-4c9b-be6d-42ec03e7ee4d",
+      "CardID": "285f82f2-9c90-4be1-a5f3-4ef482009a6a"
+    },
+    {
+      "SkillLevel": 99.28132682690777,
+      "FromSection": {
+        "Content": "[ɹ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Palatal",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "ff358b30-80ed-4e9a-ac3c-b6699138ced5",
+      "CardID": "285f82f2-9c90-4be1-a5f3-4ef482009a6a"
+    },
+    {
+      "SkillLevel": 99.20901944521087,
+      "FromSection": {
+        "Content": "a35bcf55-a899-43e5-8647-28ca9133a760",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[θ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "bea001ec-3204-4bd3-bbc4-3c49b837824c",
+      "CardID": "e5fa387a-ebcf-400d-aa21-bfbc1545572f"
+    },
+    {
+      "SkillLevel": 98.76124272476285,
+      "FromSection": {
+        "Content": "[d]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "96732d52-a824-4159-9073-6e94e261c673",
+      "CardID": "db1c2fde-ccfd-4714-a282-8a674f69f2aa"
+    },
+    {
+      "SkillLevel": 98.68291102019442,
+      "FromSection": {
+        "Content": "[ʒ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "c1b773aa-cd49-448f-815a-6cc7f1c8482c",
+      "CardID": "22252ddd-a405-48f1-8d1b-8fe1abb0f434"
+    },
+    {
+      "SkillLevel": 99.58216219338203,
+      "FromSection": {
+        "Content": "[θ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "3787a79f-727a-4290-ae7a-d937f4e55493",
+      "CardID": "e5fa387a-ebcf-400d-aa21-bfbc1545572f"
+    },
+    {
+      "SkillLevel": 99.56977714895807,
+      "FromSection": {
+        "Content": "[h]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "0144555b-c5fc-4e32-958d-b3cb03592add",
+      "CardID": "6ea6753b-91d6-48de-a330-ae87047aa9a6"
+    },
+    {
+      "SkillLevel": 98.17166527312219,
+      "FromSection": {
+        "Content": "[ʒ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiced",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "c277c821-056f-482f-9aeb-9226977a89a1",
+      "CardID": "22252ddd-a405-48f1-8d1b-8fe1abb0f434"
+    },
+    {
+      "SkillLevel": 99.24721485979178,
+      "FromSection": {
+        "Content": "[ð]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiced",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "c14efe23-359b-4ecb-9f0e-21ca54c4f26c",
+      "CardID": "d32e46cf-bcbf-4cbc-a1fb-2b2fe8010f9c"
+    },
+    {
+      "SkillLevel": 98.45450945242288,
+      "FromSection": {
+        "Content": "[b]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "e355605e-f70a-40fa-b673-44621f81801a",
+      "CardID": "434fdf06-aa14-4c4b-9a58-02987d898160"
+    },
+    {
+      "SkillLevel": 98.10109843599136,
+      "FromSection": {
+        "Content": "d0f10f06-2ddd-41fa-88a7-f65baf511d7d",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[ʒ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "695bbab3-c3c2-4237-8ca6-73a1416a35d1",
+      "CardID": "22252ddd-a405-48f1-8d1b-8fe1abb0f434"
+    },
+    {
+      "SkillLevel": 98.32768530911774,
+      "FromSection": {
+        "Content": "[z]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "b884e885-3703-4415-a9d5-fb6bcd54f917",
+      "CardID": "a561d0b6-15df-4136-9c3c-01e54288dba2"
+    },
+    {
+      "SkillLevel": 98.91548296086867,
+      "FromSection": {
+        "Content": "[t]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiceless",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "d79e7dff-b5ac-4a0e-947b-fc1e033df0fe",
+      "CardID": "250b00b1-b77d-44b5-bc98-f553ccbc6537"
+    },
+    {
+      "SkillLevel": 99.70530594645287,
+      "FromSection": {
+        "Content": "Heat, Hello",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[h]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "1661e493-afba-0fd5-8651-3c36d89f52a2",
+      "CardID": "6ea6753b-91d6-48de-a330-ae87047aa9a6"
+    },
+    {
+      "SkillLevel": 99.8601383001748,
+      "FromSection": {
+        "Content": "[g]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiced",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "42eb8b44-d3ed-4a3a-a364-7163ad2c2b47",
+      "CardID": "df7c42ac-c8d4-4c5d-9a12-8af7eff3606a"
+    },
+    {
+      "SkillLevel": 99.06410614931649,
+      "FromSection": {
+        "Content": "[f]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "95ac63ad-f162-4f50-b102-f44ba189c529",
+      "CardID": "2f7e4580-7d23-4776-861c-cf6635740dcc"
+    },
+    {
+      "SkillLevel": 98.35437902373,
+      "FromSection": {
+        "Content": "01bf123f-5259-4c10-bf61-b36bf189987a",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[dʒ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "9e482457-c76d-450b-a1a3-4f7c7f56bf92",
+      "CardID": "887fe08f-aaeb-438d-a8cd-fca083d2cb02"
+    },
+    {
+      "SkillLevel": 98.26889836803782,
+      "FromSection": {
+        "Content": "[ʔ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Glottal",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "e5703a8b-6740-4dc1-956a-df3fee7e4121",
+      "CardID": "7bbf3492-e52f-45e4-a9f8-18a1fe0b7a82"
+    },
+    {
+      "SkillLevel": 98.85382508457027,
+      "FromSection": {
+        "Content": "[m]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiced",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "a07d8129-cdc5-47f5-bd86-b94ce4d22a3c",
+      "CardID": "0b725f44-44fd-45ce-8aaf-f30a0b28da6a"
+    },
+    {
+      "SkillLevel": 99.90155212685625,
+      "FromSection": {
+        "Content": "[ɹ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "7fb6c831-1e34-4047-9d23-187506172a2c",
+      "CardID": "285f82f2-9c90-4be1-a5f3-4ef482009a6a"
+    },
+    {
+      "SkillLevel": 98.44169728887746,
+      "FromSection": {
+        "Content": "[b]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "1503b9b5-0b4e-4393-bb9c-2f211608ec50",
+      "CardID": "434fdf06-aa14-4c4b-9a58-02987d898160"
+    },
+    {
+      "SkillLevel": 98.04155915501141,
+      "FromSection": {
+        "Content": "[p]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Bilabial",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "e740c833-dc23-4a51-9951-efff6aea7599",
+      "CardID": "6a5998c6-52d2-478b-8f29-7758c24dff7f"
+    },
+    {
+      "SkillLevel": 98.89616338116682,
+      "FromSection": {
+        "Content": "6624b6a0-7013-4630-9066-5bde084a7c23",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[k]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "93ea3d23-fb61-4a2f-b148-38040c8bc965",
+      "CardID": "b6f31872-efe4-4fd0-b706-e55fb881af66"
+    },
+    {
+      "SkillLevel": 99.12601989255063,
+      "FromSection": {
+        "Content": "[j]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "64518c8a-b418-49ea-be3b-0af2f15f87b8",
+      "CardID": "cfef95bb-af82-42b7-b34a-5bff77e44747"
+    },
+    {
+      "SkillLevel": 98.89348588855931,
+      "FromSection": {
+        "Content": "theiF, Fear",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[f]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "f363b05e-325d-3e46-1775-7bf283e36c55",
+      "CardID": "2f7e4580-7d23-4776-861c-cf6635740dcc"
+    },
+    {
+      "SkillLevel": 99.42226748535785,
+      "FromSection": {
+        "Content": "[n]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "2ee234ee-11a6-48a8-ae41-cf02d5d9f326",
+      "CardID": "ce48ae2e-60fd-42b6-a98c-254e633b0d37"
+    },
+    {
+      "FromSection": {
+        "Content": "[d]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "df8b4db7-80d4-4150-a9cf-68ad55045edf",
+      "CardID": "db1c2fde-ccfd-4714-a282-8a674f69f2aa",
+      "SkillLevel": 99.5824688469389
+    },
+    {
+      "SkillLevel": 98.24576880147022,
+      "FromSection": {
+        "Content": "[s]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiceless",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "316f36f1-62e3-4181-a7ec-c3a563928d25",
+      "CardID": "8ba77f98-42c7-4f68-9390-5e5be6b31b29"
+    },
+    {
+      "SkillLevel": 98.29225550230068,
+      "FromSection": {
+        "Content": "[k]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "03e86757-5da2-4fbd-992f-bd181f44a204",
+      "CardID": "b6f31872-efe4-4fd0-b706-e55fb881af66"
+    },
+    {
+      "SkillLevel": 98.13679102516676,
+      "FromSection": {
+        "Content": "[d]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "440c3258-400f-47f3-8256-938c04f16c13",
+      "CardID": "db1c2fde-ccfd-4714-a282-8a674f69f2aa"
+    },
+    {
+      "SkillLevel": 98.61243268814772,
+      "FromSection": {
+        "Content": "[ʃ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "03e86797-5da2-4fbd-992f-bd181f04a204",
+      "CardID": "501b4821-2704-4d8c-a928-e3fc7b920a2c"
+    },
+    {
+      "SkillLevel": 99.50454009320762,
+      "FromSection": {
+        "Content": "[z]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "858bc095-2d62-440c-a60d-2deb6a306cf3",
+      "CardID": "a561d0b6-15df-4136-9c3c-01e54288dba2"
+    },
+    {
+      "SkillLevel": 99.38698584127056,
+      "FromSection": {
+        "Content": "[tʃ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "72eeb419-6018-4f4e-a6f1-7593566f6f47",
+      "CardID": "7d8a61fd-614b-4faa-8472-03f0616db256"
+    },
+    {
+      "SkillLevel": 98.57132038150837,
+      "FromSection": {
+        "Content": "[m]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Bilabial",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "b9cfb970-7e81-41fc-864a-466462293f60",
+      "CardID": "0b725f44-44fd-45ce-8aaf-f30a0b28da6a"
+    },
+    {
+      "SkillLevel": 99.98483362451633,
+      "FromSection": {
+        "Content": "[b]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Bilabial",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "caefecbf-a06a-43fc-a39c-7a6445252a41",
+      "CardID": "434fdf06-aa14-4c4b-9a58-02987d898160"
+    },
+    {
+      "FromSection": {
+        "Content": "[g]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "624978c7-1a32-4bbd-975d-ca24b83e6f1f",
+      "CardID": "df7c42ac-c8d4-4c5d-9a12-8af7eff3606a",
+      "SkillLevel": 99.24965311774875
+    },
+    {
+      "SkillLevel": 99.52680232174254,
+      "FromSection": {
+        "Content": "1a243cf2-4bb7-47f6-970e-3526b8417f08",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[b]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "7dafcf11-0358-463b-aec6-968aa3b9ed59",
+      "CardID": "434fdf06-aa14-4c4b-9a58-02987d898160"
+    },
+    {
+      "SkillLevel": 99.71354430160187,
+      "FromSection": {
+        "Content": "[l]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiced",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "60332d51-4bca-4e71-9632-cbbe1b7b87bb",
+      "CardID": "748de959-2d96-477b-8f3f-494815bc2f36"
+    },
+    {
+      "SkillLevel": 99.22873065454901,
+      "FromSection": {
+        "Content": "[f]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiceless",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "339208b2-cd78-4e09-8f48-d7eae45d20a3",
+      "CardID": "2f7e4580-7d23-4776-861c-cf6635740dcc"
+    },
+    {
+      "SkillLevel": 98.98243662522076,
+      "FromSection": {
+        "Content": "[ʃ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Post-Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "4ffd31a0-bdc3-4ca2-9d9d-3aab6c7a92ea",
+      "CardID": "501b4821-2704-4d8c-a928-e3fc7b920a2c"
+    },
+    {
+      "SkillLevel": 99.0100050751055,
+      "FromSection": {
+        "Content": "c5b075fe-8a45-4e6a-9648-5c6d046a9cc4",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[ŋ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "7203a934-2b0d-489a-9406-c7700cd542ff",
+      "CardID": "82ef3c9d-bf27-46df-8912-8dd0ef946060"
+    },
+    {
+      "SkillLevel": 98.54869669588824,
+      "FromSection": {
+        "Content": "208d01e2-7402-42b7-8788-5841d463facf",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[m]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "503aec0d-8ea3-4c50-a3cd-28aaf2a0f861",
+      "CardID": "0b725f44-44fd-45ce-8aaf-f30a0b28da6a"
+    },
+    {
+      "SkillLevel": 98.80151335188074,
+      "FromSection": {
+        "Content": "[l]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Liquid (Lateral)",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "7f23e9f8-6063-46b9-97ec-79e375cc8810",
+      "CardID": "748de959-2d96-477b-8f3f-494815bc2f36"
+    },
+    {
+      "SkillLevel": 99.49580487435723,
+      "FromSection": {
+        "Content": "laB, Beam",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[b]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "c291ac0b-b755-01d3-cef6-d755a1406178",
+      "CardID": "434fdf06-aa14-4c4b-9a58-02987d898160"
+    },
+    {
+      "SkillLevel": 99.74741755987759,
+      "FromSection": {
+        "Content": "d936d9fe-1fc1-4b99-8481-a666125aae25",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[n]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "c613c32b-b77a-46af-a1a0-c15b29b555ab",
+      "CardID": "ce48ae2e-60fd-42b6-a98c-254e633b0d37"
+    },
+    {
+      "SkillLevel": 98.71601635397259,
+      "FromSection": {
+        "Content": "[dʒ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "a7d82ef7-54e7-4bc8-a607-972b366fd168",
+      "CardID": "887fe08f-aaeb-438d-a8cd-fca083d2cb02"
+    },
+    {
+      "SkillLevel": 99.58768419760048,
+      "FromSection": {
+        "Content": "[ŋ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Velar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "678f4cdf-a227-463f-9a3c-211f93a97a5a",
+      "CardID": "82ef3c9d-bf27-46df-8912-8dd0ef946060"
+    },
+    {
+      "SkillLevel": 99.81869780783342,
+      "FromSection": {
+        "Content": "[n]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Nasal",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "8f96bde3-41d2-48ea-bac5-6578590eaf5c",
+      "CardID": "ce48ae2e-60fd-42b6-a98c-254e633b0d37"
+    },
+    {
+      "SkillLevel": 99.37991155668763,
+      "FromSection": {
+        "Content": "[l]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "44eb9f37-8517-4505-96f8-e1e75880781b",
+      "CardID": "748de959-2d96-477b-8f3f-494815bc2f36"
+    },
+    {
+      "SkillLevel": 98.73041383307174,
+      "FromSection": {
+        "Content": "[t]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "a0d96b73-b7c6-4be1-9b0c-777f1884f20f",
+      "CardID": "250b00b1-b77d-44b5-bc98-f553ccbc6537"
+    },
+    {
+      "SkillLevel": 99.11607716559486,
+      "FromSection": {
+        "Content": "siNG, fiNGger",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[ŋ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "0716e6bc-d7e9-331c-6d13-88cd29ca1f53",
+      "CardID": "82ef3c9d-bf27-46df-8912-8dd0ef946060"
+    },
+    {
+      "SkillLevel": 99.56994833301091,
+      "FromSection": {
+        "Content": "miSS, Silk",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[s]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "49d26a0c-f313-d640-0bc0-7791dbd67e59",
+      "CardID": "8ba77f98-42c7-4f68-9390-5e5be6b31b29"
+    },
+    {
+      "SkillLevel": 99.98891133211153,
+      "FromSection": {
+        "Content": "[ŋ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Nasal",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "e64cfbb5-cd82-403e-8f74-51499c5209c0",
+      "CardID": "82ef3c9d-bf27-46df-8912-8dd0ef946060"
+    },
+    {
+      "SkillLevel": 99.12198457268686,
+      "FromSection": {
+        "Content": "a1a08be3-6ae5-44ca-aec1-189f8f8f53b4",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[d]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "cc68789a-fcbe-48c2-a07c-7523e71a0d41",
+      "CardID": "db1c2fde-ccfd-4714-a282-8a674f69f2aa"
+    },
+    {
+      "SkillLevel": 99.32995535189347,
+      "FromSection": {
+        "Content": "THread, boTH",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[θ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "ebc09861-fb29-7c1c-98ca-29f410f61821",
+      "CardID": "e5fa387a-ebcf-400d-aa21-bfbc1545572f"
+    },
+    {
+      "SkillLevel": 99.033103312802,
+      "FromSection": {
+        "Content": "[k]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Velar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "639e1963-94f9-489b-bd70-deb39c5cdb0d",
+      "CardID": "b6f31872-efe4-4fd0-b706-e55fb881af66"
+    },
+    {
+      "SkillLevel": 98.98805434321862,
+      "FromSection": {
+        "Content": "[j]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiced",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "7c860273-9c06-46e4-a689-153e0d4c65ef",
+      "CardID": "cfef95bb-af82-42b7-b34a-5bff77e44747"
+    },
+    {
+      "SkillLevel": 99.30543573232225,
+      "FromSection": {
+        "Content": "b600b260-3158-40c9-93ba-99382805c877",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[s]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "d9bf08bc-3260-4471-9591-8d0204a2d80d",
+      "CardID": "8ba77f98-42c7-4f68-9390-5e5be6b31b29"
+    },
+    {
+      "SkillLevel": 98.91188437969042,
+      "FromSection": {
+        "Content": "Man, leMon",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[m]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "0008aabe-59a8-346e-1449-6211892c1861",
+      "CardID": "0b725f44-44fd-45ce-8aaf-f30a0b28da6a"
+    },
+    {
+      "SkillLevel": 98.78342779556529,
+      "FromSection": {
+        "Content": "wiT, Tea",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[t]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "9c714bd5-a096-e3ee-f5b3-a803dee568bf",
+      "CardID": "250b00b1-b77d-44b5-bc98-f553ccbc6537"
+    },
+    {
+      "SkillLevel": 98.87945616299902,
+      "FromSection": {
+        "Content": "fiVE, Venmo",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[v]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "53d66b15-bac2-20ee-2812-2ed0568475a9",
+      "CardID": "f94151ad-5531-4c7a-a532-3256e6154403"
+    },
+    {
+      "SkillLevel": 99.03487742507146,
+      "FromSection": {
+        "Content": "Jelly, larGE",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[dʒ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "71cb45c3-14c6-cc61-f9a9-8c6799b91f44",
+      "CardID": "887fe08f-aaeb-438d-a8cd-fca083d2cb02"
+    },
+    {
+      "SkillLevel": 99.6983628803585,
+      "FromSection": {
+        "Content": "35a36b66-74c8-459c-a2bf-ea567cec9bce",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[z]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "93a4b4fd-7cda-467d-bf3e-08d04f7c0b23",
+      "CardID": "a561d0b6-15df-4136-9c3c-01e54288dba2"
+    },
+    {
+      "SkillLevel": 99.89939061087978,
+      "FromSection": {
+        "Content": "[ʒ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "b9709974-b496-4587-b475-9c6977cc4d23",
+      "CardID": "22252ddd-a405-48f1-8d1b-8fe1abb0f434"
+    },
+    {
+      "SkillLevel": 99.80766347884709,
+      "FromSection": {
+        "Content": "CHin, CHurCH",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[tʃ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "5bb1cd0e-93b2-ae75-c38b-2ce1d6e26f27",
+      "CardID": "7d8a61fd-614b-4faa-8472-03f0616db256"
+    },
+    {
+      "SkillLevel": 98.81796990943832,
+      "FromSection": {
+        "Content": "b928ac79-87b5-41e2-a340-17e0eac2fedd",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[ʃ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "d3a600b8-eaf7-43f7-806c-4db2c9911f36",
+      "CardID": "501b4821-2704-4d8c-a928-e3fc7b920a2c"
+    },
+    {
+      "SkillLevel": 98.0450333381265,
+      "FromSection": {
+        "Content": "[h]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "716b014f-739c-4051-84ce-c7fa6a5487ef",
+      "CardID": "6ea6753b-91d6-48de-a330-ae87047aa9a6"
+    },
+    {
+      "SkillLevel": 99.01636030690997,
+      "FromSection": {
+        "Content": "[d]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiced",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "5cdd85a4-a42b-4bd4-817e-0adcf1a6d652",
+      "CardID": "db1c2fde-ccfd-4714-a282-8a674f69f2aa"
+    },
+    {
+      "SkillLevel": 98.9096577201201,
+      "FromSection": {
+        "Content": "[ʒ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Post-Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "32752cb4-fc67-4674-bdeb-29af8b2f2e2b",
+      "CardID": "22252ddd-a405-48f1-8d1b-8fe1abb0f434"
+    },
+    {
+      "SkillLevel": 98.9084094748204,
+      "FromSection": {
+        "Content": "[g]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Velar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "e4d2b1c2-8496-42c9-a5de-f72406bf2833",
+      "CardID": "df7c42ac-c8d4-4c5d-9a12-8af7eff3606a"
+    },
+    {
+      "SkillLevel": 99.76090410590582,
+      "FromSection": {
+        "Content": "[z]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "ab289189-7817-43e7-8148-c05679e3eee2",
+      "CardID": "a561d0b6-15df-4136-9c3c-01e54288dba2"
+    },
+    {
+      "SkillLevel": 99.85789645027005,
+      "FromSection": {
+        "Content": "[ʃ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiceless",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "3b7d47f1-a13a-4192-850a-ac0726552116",
+      "CardID": "501b4821-2704-4d8c-a928-e3fc7b920a2c"
+    },
+    {
+      "SkillLevel": 99.21103467202425,
+      "FromSection": {
+        "Content": "ce197f3f-707c-43fb-9b65-05055a315703",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[g]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "10c96ad8-cfcb-457d-8048-f6abf13bf148",
+      "CardID": "df7c42ac-c8d4-4c5d-9a12-8af7eff3606a"
+    },
+    {
+      "SkillLevel": 99.92775362447593,
+      "FromSection": {
+        "Content": "[h]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Glottal",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "7966d27c-b491-4786-8081-cbe26f1a97c2",
+      "CardID": "6ea6753b-91d6-48de-a330-ae87047aa9a6"
+    },
+    {
+      "SkillLevel": 98.79299641547462,
+      "FromSection": {
+        "Content": "[ð]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "03191d6a-1109-47e2-94df-810e5b795d56",
+      "CardID": "d32e46cf-bcbf-4cbc-a1fb-2b2fe8010f9c"
+    },
+    {
+      "SkillLevel": 98.8721328299846,
+      "FromSection": {
+        "Content": "[p]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "91a3b49a-74e8-4e88-839e-79795604fb0a",
+      "CardID": "6a5998c6-52d2-478b-8f29-7758c24dff7f"
+    },
+    {
+      "SkillLevel": 98.72277684392279,
+      "FromSection": {
+        "Content": "[t]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "81dca817-4b5d-48a9-ad9d-f555aa9f22a5",
+      "CardID": "250b00b1-b77d-44b5-bc98-f553ccbc6537"
+    },
+    {
+      "SkillLevel": 99.07873240399361,
+      "FromSection": {
+        "Content": "[s]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "9b17e020-6e25-440e-9cb5-6bb83cac97a1",
+      "CardID": "8ba77f98-42c7-4f68-9390-5e5be6b31b29"
+    },
+    {
+      "SkillLevel": 98.82927888583632,
+      "FromSection": {
+        "Content": "craSH, SHe",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[ʃ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "fffc7cb1-5183-7aa4-01c5-a305ce2432c8",
+      "CardID": "501b4821-2704-4d8c-a928-e3fc7b920a2c"
+    },
+    {
+      "SkillLevel": 98.71371169894734,
+      "FromSection": {
+        "Content": "129c8826-8502-4188-9f6f-87ad6ba9bb67",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[v]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "ae7cd647-cfca-4935-8014-380ae35292e9",
+      "CardID": "f94151ad-5531-4c7a-a532-3256e6154403"
+    },
+    {
+      "SkillLevel": 99.25041095679188,
+      "FromSection": {
+        "Content": "3916a585-9366-420a-a1c6-06a77578f014",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[tʃ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "cb4fe373-206f-4143-98c9-c0d5f3f2d1a6",
+      "CardID": "7d8a61fd-614b-4faa-8472-03f0616db256"
+    },
+    {
+      "SkillLevel": 98.93275202963594,
+      "FromSection": {
+        "Content": "[tʃ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiceless",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "21243484-0349-4f0f-aa1a-7f180308bd17",
+      "CardID": "7d8a61fd-614b-4faa-8472-03f0616db256"
+    },
+    {
+      "SkillLevel": 99.19102912834713,
+      "FromSection": {
+        "Content": "aa41a49f-653f-414e-9082-b19ab0c3ff54",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[ð]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "f3191083-18fa-4655-9953-0771d79a3a83",
+      "CardID": "d32e46cf-bcbf-4cbc-a1fb-2b2fe8010f9c"
+    },
+    {
+      "SkillLevel": 99.24917947877697,
+      "FromSection": {
+        "Content": "[b]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiced",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "1214b9da-d14a-4fcb-8648-ccd013529e4c",
+      "CardID": "434fdf06-aa14-4c4b-9a58-02987d898160"
+    },
+    {
+      "SkillLevel": 98.30846694439006,
+      "FromSection": {
+        "Content": "[dʒ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "3a9414e0-3a6e-44ce-86bb-9e076eb327f2",
+      "CardID": "887fe08f-aaeb-438d-a8cd-fca083d2cb02"
+    },
+    {
+      "SkillLevel": 99.63269172259102,
+      "FromSection": {
+        "Content": "[f]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "0f484d1d-f1a8-4f4d-8717-ff95ebd276c3",
+      "CardID": "2f7e4580-7d23-4776-861c-cf6635740dcc"
+    },
+    {
+      "SkillLevel": 98.2564612419472,
+      "FromSection": {
+        "Content": "[n]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "0b6445a4-660e-4ed0-ac70-3d910b7aa161",
+      "CardID": "ce48ae2e-60fd-42b6-a98c-254e633b0d37"
+    },
+    {
+      "SkillLevel": 98.83770635580557,
+      "FromSection": {
+        "Content": "5471b464-b6e1-4ae6-8749-001405cebc68",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[p]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "bb144aae-47a6-4ba0-96d6-9effb7e511ff",
+      "CardID": "6a5998c6-52d2-478b-8f29-7758c24dff7f"
+    },
+    {
+      "SkillLevel": 98.0736115608644,
+      "FromSection": {
+        "Content": "[z]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiced",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "b263a6c8-b586-4a05-968e-eb048a50d92a",
+      "CardID": "a561d0b6-15df-4136-9c3c-01e54288dba2"
+    },
+    {
+      "SkillLevel": 98.1546086595578,
+      "FromSection": {
+        "Content": "[l]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "01d6a271-3af3-46a6-8ac9-fe6d7d184d69",
+      "CardID": "748de959-2d96-477b-8f3f-494815bc2f36"
+    },
+    {
+      "SkillLevel": 99.36743652561248,
+      "FromSection": {
+        "Content": "[m]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "aa4e8aaa-a611-464b-8293-aad169148064",
+      "CardID": "0b725f44-44fd-45ce-8aaf-f30a0b28da6a"
+    },
+    {
+      "SkillLevel": 99.75073058073507,
+      "FromSection": {
+        "Content": "[ŋ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiced",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "085765ba-1c6a-4d30-9717-541b2fe92dc8",
+      "CardID": "82ef3c9d-bf27-46df-8912-8dd0ef946060"
+    },
+    {
+      "SkillLevel": 99.14387735782334,
+      "FromSection": {
+        "Content": "[m]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Nasal",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "eec35aec-0ca1-4eb2-b021-1bd69cdd17c1",
+      "CardID": "0b725f44-44fd-45ce-8aaf-f30a0b28da6a"
+    },
+    {
+      "SkillLevel": 98.29371822328102,
+      "FromSection": {
+        "Content": "[n]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiced",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "e4360059-aaba-4629-85d0-13f8b9652ab3",
+      "CardID": "ce48ae2e-60fd-42b6-a98c-254e633b0d37"
+    },
+    {
+      "SkillLevel": 98.01182065976514,
+      "FromSection": {
+        "Content": "[j]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Palatal",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "64c12b15-07fe-478c-b2b3-ab5a6bc5e311",
+      "CardID": "cfef95bb-af82-42b7-b34a-5bff77e44747"
+    },
+    {
+      "SkillLevel": 99.60146926541871,
+      "FromSection": {
+        "Content": "[w]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Bilabial / (Velar)",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "62cd2251-b623-46da-9b1c-b12e7f2e3c13",
+      "CardID": "1dec0fe0-0ee2-4d92-8264-95ccc63c1e80"
+    },
+    {
+      "SkillLevel": 98.12297662151636,
+      "FromSection": {
+        "Content": "[w]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Glide",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "21966324-62ce-4a91-b8cc-2cf8d5b504ce",
+      "CardID": "1dec0fe0-0ee2-4d92-8264-95ccc63c1e80"
+    },
+    {
+      "SkillLevel": 98.701041017761,
+      "FromSection": {
+        "Content": "[v]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Labiodental",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "a3c0644f-4ad6-497d-a7fc-e52a3d8c50bc",
+      "CardID": "f94151ad-5531-4c7a-a532-3256e6154403"
+    },
+    {
+      "SkillLevel": 99.9194158718788,
+      "FromSection": {
+        "Content": "pleaSure, viSion",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[ʒ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "7face658-5436-afdb-97d4-d47e1d489420",
+      "CardID": "22252ddd-a405-48f1-8d1b-8fe1abb0f434"
+    },
+    {
+      "SkillLevel": 99.88017235479202,
+      "FromSection": {
+        "Content": "[w]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "048b6e85-0008-4f79-9368-3e8a26d25b37",
+      "CardID": "1dec0fe0-0ee2-4d92-8264-95ccc63c1e80"
+    },
+    {
+      "SkillLevel": 98.10630162884057,
+      "FromSection": {
+        "Content": "[ʔ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "977fd941-00ee-41d7-9b53-9f49e14f5c49",
+      "CardID": "7bbf3492-e52f-45e4-a9f8-18a1fe0b7a82"
+    },
+    {
+      "SkillLevel": 98.73415515756076,
+      "FromSection": {
+        "Content": "[ʔ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "bf1019df-a387-4c34-89e1-189c0a0c7b4d",
+      "CardID": "7bbf3492-e52f-45e4-a9f8-18a1fe0b7a82"
+    },
+    {
+      "SkillLevel": 98.89245417699433,
+      "FromSection": {
+        "Content": "[ʔ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiceless",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "81aac858-35e1-46d5-bdf4-88bc7bbfc9d2",
+      "CardID": "7bbf3492-e52f-45e4-a9f8-18a1fe0b7a82"
+    },
+    {
+      "SkillLevel": 99.94955304492068,
+      "FromSection": {
+        "Content": "[v]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Oral",
+        "Label": "Nasality",
+        "Type": "TEXT"
+      },
+      "ID": "66932e48-bc9c-48d0-adb6-4d45a6c1018a",
+      "CardID": "f94151ad-5531-4c7a-a532-3256e6154403"
+    },
+    {
+      "SkillLevel": 99.52815503055797,
+      "FromSection": {
+        "Content": "[v]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiced",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "04cc13de-fa9d-470e-a78d-b981a6174f7e",
+      "CardID": "f94151ad-5531-4c7a-a532-3256e6154403"
+    },
+    {
+      "SkillLevel": 98.6845509888843,
+      "FromSection": {
+        "Content": "[ŋ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "bf3eb613-728b-42ef-8444-0c9cdecf0214",
+      "CardID": "82ef3c9d-bf27-46df-8912-8dd0ef946060"
+    },
+    {
+      "SkillLevel": 99.55814690736747,
+      "FromSection": {
+        "Content": "buTTon, uh[ ]oh",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[ʔ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "662e3b9a-045a-f6ec-2fb5-455be0a5bce0",
+      "CardID": "7bbf3492-e52f-45e4-a9f8-18a1fe0b7a82"
+    },
+    {
+      "SkillLevel": 99.35617631194367,
+      "FromSection": {
+        "Content": "sPread, maP",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[p]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "49f111fa-7d80-0dac-a4e3-b98c7bfbbdfe",
+      "CardID": "6a5998c6-52d2-478b-8f29-7758c24dff7f"
+    },
+    {
+      "SkillLevel": 98.40882719859674,
+      "FromSection": {
+        "Content": "[θ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "09bc0e05-8477-4bda-ac28-9fbe7795c00c",
+      "CardID": "e5fa387a-ebcf-400d-aa21-bfbc1545572f"
+    },
+    {
+      "SkillLevel": 98.90800426947929,
+      "FromSection": {
+        "Content": "tRy, Real",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[ɹ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "da7f7046-280e-a4b5-655b-52178087688a",
+      "CardID": "285f82f2-9c90-4be1-a5f3-4ef482009a6a"
+    },
+    {
+      "SkillLevel": 99.15016188608715,
+      "FromSection": {
+        "Content": "[t]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "66829191-666b-4e47-afae-318c42618871",
+      "CardID": "250b00b1-b77d-44b5-bc98-f553ccbc6537"
+    },
+    {
+      "SkillLevel": 98.99440941042722,
+      "FromSection": {
+        "Content": "[w]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiced",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "2b99c87d-322a-47a6-be32-e05da472e4e8",
+      "CardID": "1dec0fe0-0ee2-4d92-8264-95ccc63c1e80"
+    },
+    {
+      "SkillLevel": 98.76574147170324,
+      "FromSection": {
+        "Content": "[θ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Interdental",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "f650b5b0-c20b-45ba-ad4a-9ee07bd05e45",
+      "CardID": "e5fa387a-ebcf-400d-aa21-bfbc1545572f"
+    },
+    {
+      "SkillLevel": 98.97537174470712,
+      "FromSection": {
+        "Content": "[θ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Voiceless",
+        "Label": "Voicing",
+        "Type": "TEXT"
+      },
+      "ID": "18cddc3d-dca9-4edc-b75d-ab7652c53566",
+      "CardID": "e5fa387a-ebcf-400d-aa21-bfbc1545572f"
+    },
+    {
+      "SkillLevel": 99.13000071861043,
+      "FromSection": {
+        "Content": "thinK, Cream",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[k]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "b9fc63d3-3f33-a11f-0dbc-6a201547db3d",
+      "CardID": "b6f31872-efe4-4fd0-b706-e55fb881af66"
+    },
+    {
+      "SkillLevel": 99.3971772534066,
+      "FromSection": {
+        "Content": "[s]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "9c08b756-38d3-46b2-b6fe-2cd074d22411",
+      "CardID": "8ba77f98-42c7-4f68-9390-5e5be6b31b29"
+    },
+    {
+      "SkillLevel": 98.05455005868502,
+      "FromSection": {
+        "Content": "[p]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "246c93d1-c1aa-4949-8365-26c7f3d570c1",
+      "CardID": "6a5998c6-52d2-478b-8f29-7758c24dff7f"
+    },
+    {
+      "SkillLevel": 99.39623465862014,
+      "FromSection": {
+        "Content": "NaNo, teN",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[n]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "be7f95dd-4b80-1a69-f20b-be93af8f3b23",
+      "CardID": "ce48ae2e-60fd-42b6-a98c-254e633b0d37"
+    },
+    {
+      "SkillLevel": 99.62631290301188,
+      "FromSection": {
+        "Content": "thuG, seaGull",
+        "Label": "Example Words",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "[g]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "8549985f-7b48-e48c-a9ed-bd4a65874f47",
+      "CardID": "df7c42ac-c8d4-4c5d-9a12-8af7eff3606a"
+    },
+    {
+      "SkillLevel": 99.61733900244873,
+      "FromSection": {
+        "Content": "[v]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "d261199a-fc64-4f90-b8eb-23361e1c247d",
+      "CardID": "f94151ad-5531-4c7a-a532-3256e6154403"
+    },
+    {
+      "SkillLevel": 98.58268480703863,
+      "FromSection": {
+        "Content": "[f]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "497fd694-fb23-a19d-f220-07165dfa4a38",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "ae3f3d88-ed7f-81fb-280a-d07acc8f17ad",
+      "CardID": "2f7e4580-7d23-4776-861c-cf6635740dcc"
+    },
+    {
+      "SkillLevel": 98.44400303992575,
+      "FromSection": {
+        "Content": "497fd694-fb23-a19d-f220-07165dfa4a38",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[f]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "76dc8b9a-7232-7d00-d39c-588f6b15c5f9",
+      "CardID": "2f7e4580-7d23-4776-861c-cf6635740dcc"
+    },
+    {
+      "SkillLevel": 98.97822130556281,
+      "FromSection": {
+        "Content": "497fd694-fb23-a19d-f220-07165dfa4a38",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Labiodental",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "a204329e-6594-e854-a49d-f5b3317ee44c",
+      "CardID": "2f7e4580-7d23-4776-861c-cf6635740dcc"
+    },
+    {
+      "SkillLevel": 98.61131858075534,
+      "FromSection": {
+        "Content": "497fd694-fb23-a19d-f220-07165dfa4a38",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "b514d1ca-c62c-e209-ee07-c17a6d7ef417",
+      "CardID": "2f7e4580-7d23-4776-861c-cf6635740dcc"
+    },
+    {
+      "SkillLevel": 98.32469631068365,
+      "FromSection": {
+        "Content": "a24d706b-9429-bd2b-a761-9c57392ee42c",
+        "Label": "Sagital Section",
+        "Type": "IMAGE"
+      },
+      "ToSection": {
+        "Content": "[f]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "c7b1dda3-1ab3-458c-37bd-7847ed302a1d",
+      "CardID": "2f7e4580-7d23-4776-861c-cf6635740dcc"
+    },
+    {
+      "SkillLevel": 99.26885465617363,
+      "FromSection": {
+        "Content": "[ð]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "80a74e71-3e1e-d2a1-eb8d-ea8b46aed782",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "01ee274d-6a07-8d10-21b2-eeff994b14fe",
+      "CardID": "d32e46cf-bcbf-4cbc-a1fb-2b2fe8010f9c"
+    },
+    {
+      "SkillLevel": 98.64575247328546,
+      "FromSection": {
+        "Content": "80a74e71-3e1e-d2a1-eb8d-ea8b46aed782",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[ð]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "9008f8d2-69f9-763e-a684-4e7686df2972",
+      "CardID": "d32e46cf-bcbf-4cbc-a1fb-2b2fe8010f9c"
+    },
+    {
+      "SkillLevel": 98.64726958084799,
+      "FromSection": {
+        "Content": "80a74e71-3e1e-d2a1-eb8d-ea8b46aed782",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Interdental",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "0f896051-b3dd-4740-603f-cd876fd688a1",
+      "CardID": "d32e46cf-bcbf-4cbc-a1fb-2b2fe8010f9c"
+    },
+    {
+      "SkillLevel": 98.52209860035416,
+      "FromSection": {
+        "Content": "80a74e71-3e1e-d2a1-eb8d-ea8b46aed782",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "7116166b-2a30-78c3-6e71-bb9ee940a98c",
+      "CardID": "d32e46cf-bcbf-4cbc-a1fb-2b2fe8010f9c"
+    },
+    {
+      "SkillLevel": 99.04387102214629,
+      "FromSection": {
+        "Content": "[ŋ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "4957680f-f865-5989-fce5-e262a4dc9dec",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "6a56c18e-6b98-c17c-3fbc-29fa9ddbac41",
+      "CardID": "82ef3c9d-bf27-46df-8912-8dd0ef946060"
+    },
+    {
+      "SkillLevel": 99.39249242729966,
+      "FromSection": {
+        "Content": "4957680f-f865-5989-fce5-e262a4dc9dec",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[ŋ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "3a7d55f3-3b30-6009-3305-8d8f7ac3f3bb",
+      "CardID": "82ef3c9d-bf27-46df-8912-8dd0ef946060"
+    },
+    {
+      "SkillLevel": 99.44890535202272,
+      "FromSection": {
+        "Content": "4957680f-f865-5989-fce5-e262a4dc9dec",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Velar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "6ebabfa9-1810-23db-7313-7aecf32dc515",
+      "CardID": "82ef3c9d-bf27-46df-8912-8dd0ef946060"
+    },
+    {
+      "SkillLevel": 99.51727110240193,
+      "FromSection": {
+        "Content": "4957680f-f865-5989-fce5-e262a4dc9dec",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "8691c305-3a1b-1d85-544f-8bb5298aa67e",
+      "CardID": "82ef3c9d-bf27-46df-8912-8dd0ef946060"
+    },
+    {
+      "SkillLevel": 98.6576502780493,
+      "FromSection": {
+        "Content": "[p]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "5bafa8ad-9f04-0718-e9eb-7540d0ae9d18",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "f7121575-3ad2-0259-9c2e-b811bb8b2bfc",
+      "CardID": "6a5998c6-52d2-478b-8f29-7758c24dff7f"
+    },
+    {
+      "SkillLevel": 98.13177986765609,
+      "FromSection": {
+        "Content": "5bafa8ad-9f04-0718-e9eb-7540d0ae9d18",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[p]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "4ae2e32c-88ad-b08a-0202-c39301008592",
+      "CardID": "6a5998c6-52d2-478b-8f29-7758c24dff7f"
+    },
+    {
+      "SkillLevel": 99.02942468874365,
+      "FromSection": {
+        "Content": "5bafa8ad-9f04-0718-e9eb-7540d0ae9d18",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Bilabial",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "b11c20ee-8b3c-58d6-7883-50ca83672910",
+      "CardID": "6a5998c6-52d2-478b-8f29-7758c24dff7f"
+    },
+    {
+      "SkillLevel": 98.84755635741767,
+      "FromSection": {
+        "Content": "5bafa8ad-9f04-0718-e9eb-7540d0ae9d18",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "f5b26ef2-81ac-5364-62f8-b93665a7e1a6",
+      "CardID": "6a5998c6-52d2-478b-8f29-7758c24dff7f"
+    },
+    {
+      "SkillLevel": 98.27984354650353,
+      "FromSection": {
+        "Content": "[b]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "43f222e9-2a21-0085-d2c8-42c467e5a210",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "eaf77809-ca9f-2834-1067-f0ad983ab47c",
+      "CardID": "434fdf06-aa14-4c4b-9a58-02987d898160"
+    },
+    {
+      "SkillLevel": 98.67731549658899,
+      "FromSection": {
+        "Content": "43f222e9-2a21-0085-d2c8-42c467e5a210",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[b]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "45228fef-5093-1ec9-ca78-7de422a5e190",
+      "CardID": "434fdf06-aa14-4c4b-9a58-02987d898160"
+    },
+    {
+      "SkillLevel": 99.17914489559257,
+      "FromSection": {
+        "Content": "43f222e9-2a21-0085-d2c8-42c467e5a210",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Place of Articulation",
+        "Label": "Place",
+        "Type": "TEXT"
+      },
+      "ID": "d3a8f97b-e9af-fd14-652a-d3b7a6ea51d7",
+      "CardID": "434fdf06-aa14-4c4b-9a58-02987d898160"
+    },
+    {
+      "SkillLevel": 99.6836849698292,
+      "FromSection": {
+        "Content": "43f222e9-2a21-0085-d2c8-42c467e5a210",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Bilabial",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "d3a8f97b-e9af-fd14-652a-d3b7a6ea51d7",
+      "CardID": "434fdf06-aa14-4c4b-9a58-02987d898160"
+    },
+    {
+      "SkillLevel": 99.97411722293863,
+      "FromSection": {
+        "Content": "43f222e9-2a21-0085-d2c8-42c467e5a210",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "ac87e39d-2f2f-7154-2ef6-9d8bb544be26",
+      "CardID": "434fdf06-aa14-4c4b-9a58-02987d898160"
+    },
+    {
+      "SkillLevel": 98.51436421394853,
+      "FromSection": {
+        "Content": "[t]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "3ebc244a-df22-acdb-c8a9-653e34c91cbc",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "5027006e-edf7-0fd9-f206-c5976d5a7870",
+      "CardID": "250b00b1-b77d-44b5-bc98-f553ccbc6537"
+    },
+    {
+      "SkillLevel": 99.5308860505238,
+      "FromSection": {
+        "Content": "3ebc244a-df22-acdb-c8a9-653e34c91cbc",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[t]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "ea5d4c7c-7c36-57a7-c460-0517bd39bd5f",
+      "CardID": "250b00b1-b77d-44b5-bc98-f553ccbc6537"
+    },
+    {
+      "SkillLevel": 98.1780811791278,
+      "FromSection": {
+        "Content": "3ebc244a-df22-acdb-c8a9-653e34c91cbc",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "d6941aaf-5ce7-24e5-705e-1117d326c315",
+      "CardID": "250b00b1-b77d-44b5-bc98-f553ccbc6537"
+    },
+    {
+      "SkillLevel": 98.43998194617544,
+      "FromSection": {
+        "Content": "3ebc244a-df22-acdb-c8a9-653e34c91cbc",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "4d12b339-c1d8-e8a1-a9fc-2c800c90df82",
+      "CardID": "250b00b1-b77d-44b5-bc98-f553ccbc6537"
+    },
+    {
+      "SkillLevel": 99.77846973888299,
+      "FromSection": {
+        "Content": "[d]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "51b13148-60fa-9502-30c1-1128da40784b",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "1886d47a-045e-c544-1963-f11544e2cd4c",
+      "CardID": "db1c2fde-ccfd-4714-a282-8a674f69f2aa"
+    },
+    {
+      "SkillLevel": 98.79742533948729,
+      "FromSection": {
+        "Content": "51b13148-60fa-9502-30c1-1128da40784b",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[d]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "72c8ebc3-7b17-fd55-62f0-4dd21a2dbbf6",
+      "CardID": "db1c2fde-ccfd-4714-a282-8a674f69f2aa"
+    },
+    {
+      "SkillLevel": 99.55200285027071,
+      "FromSection": {
+        "Content": "51b13148-60fa-9502-30c1-1128da40784b",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "092b0008-9785-6a30-7978-19252ed8d81b",
+      "CardID": "db1c2fde-ccfd-4714-a282-8a674f69f2aa"
+    },
+    {
+      "SkillLevel": 99.97422991007767,
+      "FromSection": {
+        "Content": "51b13148-60fa-9502-30c1-1128da40784b",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "3ca6e48e-d71d-3871-becf-61fc5b0460f6",
+      "CardID": "db1c2fde-ccfd-4714-a282-8a674f69f2aa"
+    },
+    {
+      "SkillLevel": 98.85803943330856,
+      "FromSection": {
+        "Content": "acd1f790-95ab-8c11-2421-7bfb20df3443",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[k]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "73dc5a0f-5163-e21e-03dd-796da49335a9",
+      "CardID": "b6f31872-efe4-4fd0-b706-e55fb881af66"
+    },
+    {
+      "SkillLevel": 98.23059692360535,
+      "FromSection": {
+        "Content": "acd1f790-95ab-8c11-2421-7bfb20df3443",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Velar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "2d8d5f0f-7fe6-4384-e1d9-ab0bf6b32a85",
+      "CardID": "b6f31872-efe4-4fd0-b706-e55fb881af66"
+    },
+    {
+      "SkillLevel": 99.86960047384336,
+      "FromSection": {
+        "Content": "acd1f790-95ab-8c11-2421-7bfb20df3443",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "4df63d1a-48e7-334b-aab0-f8a42834dafd",
+      "CardID": "b6f31872-efe4-4fd0-b706-e55fb881af66"
+    },
+    {
+      "SkillLevel": 99.56064582841077,
+      "FromSection": {
+        "Content": "[k]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "acd1f790-95ab-8c11-2421-7bfb20df3443",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "d53db9b8-a4a3-331e-bc1f-aa6d57b5fe18",
+      "CardID": "b6f31872-efe4-4fd0-b706-e55fb881af66"
+    },
+    {
+      "SkillLevel": 98.89697971658421,
+      "FromSection": {
+        "Content": "[g]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "e1e815a5-40ba-d1cd-bc27-ea522942b537",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "6e5be0a1-1fc0-3c14-e274-526d3423f60c",
+      "CardID": "df7c42ac-c8d4-4c5d-9a12-8af7eff3606a"
+    },
+    {
+      "SkillLevel": 98.79777627990453,
+      "FromSection": {
+        "Content": "e1e815a5-40ba-d1cd-bc27-ea522942b537",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[g]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "f1bfa7b6-48f9-f9a2-4b8b-fb1534a54913",
+      "CardID": "df7c42ac-c8d4-4c5d-9a12-8af7eff3606a"
+    },
+    {
+      "SkillLevel": 99.34339182796042,
+      "FromSection": {
+        "Content": "e1e815a5-40ba-d1cd-bc27-ea522942b537",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Velar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "500e0e2a-c95c-1e84-3884-494dee87f0df",
+      "CardID": "df7c42ac-c8d4-4c5d-9a12-8af7eff3606a"
+    },
+    {
+      "SkillLevel": 98.34176716065066,
+      "FromSection": {
+        "Content": "e1e815a5-40ba-d1cd-bc27-ea522942b537",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "dc3405e0-bea4-da84-40e3-29ce877f19ab",
+      "CardID": "df7c42ac-c8d4-4c5d-9a12-8af7eff3606a"
+    },
+    {
+      "SkillLevel": 98.5466051660138,
+      "FromSection": {
+        "Content": "[m]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "c9fdd88c-51b6-a18f-caa1-2ccbe04b2a67",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "710a8a12-7d9e-78d2-6991-ec7769410cb2",
+      "CardID": "0b725f44-44fd-45ce-8aaf-f30a0b28da6a"
+    },
+    {
+      "SkillLevel": 99.54485543034916,
+      "FromSection": {
+        "Content": "c9fdd88c-51b6-a18f-caa1-2ccbe04b2a67",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[m]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "acac715f-a8d6-60c6-5c07-4acd02cf2131",
+      "CardID": "0b725f44-44fd-45ce-8aaf-f30a0b28da6a"
+    },
+    {
+      "SkillLevel": 98.91423072409701,
+      "FromSection": {
+        "Content": "c9fdd88c-51b6-a18f-caa1-2ccbe04b2a67",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Bilabial",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "6b8d0634-5725-2302-0c02-4efe4f33346f",
+      "CardID": "0b725f44-44fd-45ce-8aaf-f30a0b28da6a"
+    },
+    {
+      "SkillLevel": 99.98092610750074,
+      "FromSection": {
+        "Content": "c9fdd88c-51b6-a18f-caa1-2ccbe04b2a67",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "b50ac121-d0ab-41ac-8b8a-2488fcc583d0",
+      "CardID": "0b725f44-44fd-45ce-8aaf-f30a0b28da6a"
+    },
+    {
+      "SkillLevel": 99.84151021018438,
+      "FromSection": {
+        "Content": "[n]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "513beaff-2dc6-a063-3ae6-e5b808c8ead5",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "cfa36712-4d75-8fa3-451b-bd19213b5e5a",
+      "CardID": "ce48ae2e-60fd-42b6-a98c-254e633b0d37"
+    },
+    {
+      "SkillLevel": 99.63752598425981,
+      "FromSection": {
+        "Content": "513beaff-2dc6-a063-3ae6-e5b808c8ead5",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[n]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "fdb10495-c687-8616-1c35-77996321fb3f",
+      "CardID": "ce48ae2e-60fd-42b6-a98c-254e633b0d37"
+    },
+    {
+      "SkillLevel": 98.74286640991795,
+      "FromSection": {
+        "Content": "513beaff-2dc6-a063-3ae6-e5b808c8ead5",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "5ed2ebb2-3d92-6df7-58f4-95865b9518ce",
+      "CardID": "ce48ae2e-60fd-42b6-a98c-254e633b0d37"
+    },
+    {
+      "SkillLevel": 98.27522949208736,
+      "FromSection": {
+        "Content": "513beaff-2dc6-a063-3ae6-e5b808c8ead5",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "bf9a5c21-372e-0a80-11a5-2655e145bd7c",
+      "CardID": "ce48ae2e-60fd-42b6-a98c-254e633b0d37"
+    },
+    {
+      "SkillLevel": 98.80444779727308,
+      "FromSection": {
+        "Content": "[v]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "afc80dcc-17eb-84ca-4e6a-74d863d8b055",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "2811e4b9-9656-9e86-830f-87d2f366e7f6",
+      "CardID": "f94151ad-5531-4c7a-a532-3256e6154403"
+    },
+    {
+      "SkillLevel": 99.24316700803548,
+      "FromSection": {
+        "Content": "afc80dcc-17eb-84ca-4e6a-74d863d8b055",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[v]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "d71a5c66-1fdd-83ab-064f-103125d53565",
+      "CardID": "f94151ad-5531-4c7a-a532-3256e6154403"
+    },
+    {
+      "SkillLevel": 99.23042472156536,
+      "FromSection": {
+        "Content": "afc80dcc-17eb-84ca-4e6a-74d863d8b055",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "c51790ee-b2e1-bb7e-d908-de57cbb79ec4",
+      "CardID": "f94151ad-5531-4c7a-a532-3256e6154403"
+    },
+    {
+      "SkillLevel": 98.29767729990571,
+      "FromSection": {
+        "Content": "afc80dcc-17eb-84ca-4e6a-74d863d8b055",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Labiodental",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "b354c256-a78b-d8b4-f10d-12a42b3a81d5",
+      "CardID": "f94151ad-5531-4c7a-a532-3256e6154403"
+    },
+    {
+      "SkillLevel": 98.83981511561666,
+      "FromSection": {
+        "Content": "[θ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "93163f08-a0ef-b91c-b04f-892caa196822",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "b06bbb5c-fa98-358c-349a-f821b645c148",
+      "CardID": "e5fa387a-ebcf-400d-aa21-bfbc1545572f"
+    },
+    {
+      "SkillLevel": 99.60511841859585,
+      "FromSection": {
+        "Content": "93163f08-a0ef-b91c-b04f-892caa196822",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[θ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "d9300235-4a60-3071-7cba-fc2b512b146c",
+      "CardID": "e5fa387a-ebcf-400d-aa21-bfbc1545572f"
+    },
+    {
+      "SkillLevel": 98.1549348302472,
+      "FromSection": {
+        "Content": "93163f08-a0ef-b91c-b04f-892caa196822",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Interdental",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "ff5d798e-6d6d-943a-b92a-04fb42daf31e",
+      "CardID": "e5fa387a-ebcf-400d-aa21-bfbc1545572f"
+    },
+    {
+      "SkillLevel": 99.1786200200356,
+      "FromSection": {
+        "Content": "93163f08-a0ef-b91c-b04f-892caa196822",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "f930f718-e9c3-a835-012d-87084553eab6",
+      "CardID": "e5fa387a-ebcf-400d-aa21-bfbc1545572f"
+    },
+    {
+      "SkillLevel": 99.10999104607328,
+      "FromSection": {
+        "Content": "[s]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "d69b1a0d-eb88-7b51-645b-bec9f6a16ba3",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "dbdcceb5-c76c-5b01-1de9-ec67bd087474",
+      "CardID": "8ba77f98-42c7-4f68-9390-5e5be6b31b29"
+    },
+    {
+      "SkillLevel": 98.09626741954061,
+      "FromSection": {
+        "Content": "d69b1a0d-eb88-7b51-645b-bec9f6a16ba3",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "ae3e7f7c-76a4-bfe1-576f-40f06253ebf5",
+      "CardID": "8ba77f98-42c7-4f68-9390-5e5be6b31b29"
+    },
+    {
+      "SkillLevel": 99.52120512180127,
+      "FromSection": {
+        "Content": "d69b1a0d-eb88-7b51-645b-bec9f6a16ba3",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "3bc46375-42c8-f8ec-7a15-cbb98f45aad8",
+      "CardID": "8ba77f98-42c7-4f68-9390-5e5be6b31b29"
+    },
+    {
+      "SkillLevel": 98.5429926996617,
+      "FromSection": {
+        "Content": "d69b1a0d-eb88-7b51-645b-bec9f6a16ba3",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[s]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "4d2d23f8-8ac9-b2cf-ba31-c1fa54fa80f2",
+      "CardID": "8ba77f98-42c7-4f68-9390-5e5be6b31b29"
+    },
+    {
+      "SkillLevel": 99.1826927495602,
+      "FromSection": {
+        "Content": "[z]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "c8b936c1-b45d-f008-e7b6-4568e5e4ac30",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "52a33731-3613-52f0-49d9-06e882314b42",
+      "CardID": "a561d0b6-15df-4136-9c3c-01e54288dba2"
+    },
+    {
+      "SkillLevel": 99.74449931601266,
+      "FromSection": {
+        "Content": "c8b936c1-b45d-f008-e7b6-4568e5e4ac30",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "1fef80b3-43b4-f57a-d960-325cfe606407",
+      "CardID": "a561d0b6-15df-4136-9c3c-01e54288dba2"
+    },
+    {
+      "SkillLevel": 98.79181214515717,
+      "FromSection": {
+        "Content": "c8b936c1-b45d-f008-e7b6-4568e5e4ac30",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "d074dea5-28f2-154e-2608-da61aa0c00de",
+      "CardID": "a561d0b6-15df-4136-9c3c-01e54288dba2"
+    },
+    {
+      "SkillLevel": 99.99205429151299,
+      "FromSection": {
+        "Content": "c8b936c1-b45d-f008-e7b6-4568e5e4ac30",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[z]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "209da8a3-e176-9eb8-cca6-5f9a06100d9d",
+      "CardID": "a561d0b6-15df-4136-9c3c-01e54288dba2"
+    },
+    {
+      "SkillLevel": 98.1500207225595,
+      "FromSection": {
+        "Content": "[ʃ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "c250fe30-886e-e2ea-4a02-6ad3a96ddca9",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "288a9c38-3023-9403-ee79-8c3f9241ff30",
+      "CardID": "501b4821-2704-4d8c-a928-e3fc7b920a2c"
+    },
+    {
+      "SkillLevel": 98.40862104428147,
+      "FromSection": {
+        "Content": "c250fe30-886e-e2ea-4a02-6ad3a96ddca9",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[ʃ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "ac07e2e2-2926-ee25-db34-0da1076d4dc3",
+      "CardID": "501b4821-2704-4d8c-a928-e3fc7b920a2c"
+    },
+    {
+      "SkillLevel": 98.08118985926943,
+      "FromSection": {
+        "Content": "c250fe30-886e-e2ea-4a02-6ad3a96ddca9",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Post-Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "49a014d6-118f-c49e-3539-c3a1c98fcf9f",
+      "CardID": "501b4821-2704-4d8c-a928-e3fc7b920a2c"
+    },
+    {
+      "SkillLevel": 98.49018444589959,
+      "FromSection": {
+        "Content": "c250fe30-886e-e2ea-4a02-6ad3a96ddca9",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "9a8f0e79-da61-d7a9-67f8-049a26f01e20",
+      "CardID": "501b4821-2704-4d8c-a928-e3fc7b920a2c"
+    },
+    {
+      "SkillLevel": 98.87410360535696,
+      "FromSection": {
+        "Content": "[ʒ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "509c55c8-9418-b1fb-bc7d-c021f289de9f",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "bbd604d1-db2c-59e0-2fab-b9e1f91202bb",
+      "CardID": "22252ddd-a405-48f1-8d1b-8fe1abb0f434"
+    },
+    {
+      "SkillLevel": 99.8247619309252,
+      "FromSection": {
+        "Content": "509c55c8-9418-b1fb-bc7d-c021f289de9f",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "5821970c-5b8d-7c4e-1495-acc5830ef973",
+      "CardID": "22252ddd-a405-48f1-8d1b-8fe1abb0f434"
+    },
+    {
+      "SkillLevel": 98.97666335394555,
+      "FromSection": {
+        "Content": "509c55c8-9418-b1fb-bc7d-c021f289de9f",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Post-Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "c9be8ce7-da96-f27a-b97b-d09a8d8f9227",
+      "CardID": "22252ddd-a405-48f1-8d1b-8fe1abb0f434"
+    },
+    {
+      "SkillLevel": 99.5847758772412,
+      "FromSection": {
+        "Content": "509c55c8-9418-b1fb-bc7d-c021f289de9f",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[ʒ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "91db425c-cb91-2300-3446-09a51c8cd115",
+      "CardID": "22252ddd-a405-48f1-8d1b-8fe1abb0f434"
+    },
+    {
+      "SkillLevel": 99.99766033417363,
+      "FromSection": {
+        "Content": "[h]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "347a6e91-1b95-810a-e92b-17919166c65e",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "2fa69500-0097-5f52-e895-478cec92c926",
+      "CardID": "6ea6753b-91d6-48de-a330-ae87047aa9a6"
+    },
+    {
+      "SkillLevel": 98.33398796170754,
+      "FromSection": {
+        "Content": "347a6e91-1b95-810a-e92b-17919166c65e",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[h]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "918bc7ab-dc52-86e6-5fb8-50aa71335332",
+      "CardID": "6ea6753b-91d6-48de-a330-ae87047aa9a6"
+    },
+    {
+      "SkillLevel": 99.78944606863371,
+      "FromSection": {
+        "Content": "347a6e91-1b95-810a-e92b-17919166c65e",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Glottal",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "b2508bc5-6682-fbf0-90c6-09554e0bcb84",
+      "CardID": "6ea6753b-91d6-48de-a330-ae87047aa9a6"
+    },
+    {
+      "SkillLevel": 99.42036008643585,
+      "FromSection": {
+        "Content": "347a6e91-1b95-810a-e92b-17919166c65e",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Fricative",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "12610135-f47e-6e79-3eb0-429d993a37a1",
+      "CardID": "6ea6753b-91d6-48de-a330-ae87047aa9a6"
+    },
+    {
+      "SkillLevel": 98.55589567296653,
+      "FromSection": {
+        "Content": "[tʃ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "4a544135-0fe6-8473-1296-2d70f41e564f",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "c73b1ae5-dc74-1c28-e504-2cd230d68785",
+      "CardID": "7d8a61fd-614b-4faa-8472-03f0616db256"
+    },
+    {
+      "SkillLevel": 99.45677784763873,
+      "FromSection": {
+        "Content": "114d9987-7c51-f5a0-279d-9ecbc4d4d5a3",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[tʃ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "be98d5c4-a97a-d402-1f3c-c5764a4afc90",
+      "CardID": "7d8a61fd-614b-4faa-8472-03f0616db256"
+    },
+    {
+      "SkillLevel": 98.9378409192185,
+      "FromSection": {
+        "Content": "114d9987-7c51-f5a0-279d-9ecbc4d4d5a3",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "3b357988-c1b5-fac4-4e92-763385b06c8f",
+      "CardID": "7d8a61fd-614b-4faa-8472-03f0616db256"
+    },
+    {
+      "SkillLevel": 99.26859763140384,
+      "FromSection": {
+        "Content": "114d9987-7c51-f5a0-279d-9ecbc4d4d5a3",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Affricate",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "a614d621-fb23-1c4e-e18a-ac18e04adbd9",
+      "CardID": "7d8a61fd-614b-4faa-8472-03f0616db256"
+    },
+    {
+      "SkillLevel": 99.00862393398627,
+      "FromSection": {
+        "Content": "[dʒ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "114d9987-7c51-f5a0-279d-9ecbc4d4d5a3",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "7c4181b9-df85-3227-b64e-c5a9230ff11f",
+      "CardID": "887fe08f-aaeb-438d-a8cd-fca083d2cb02"
+    },
+    {
+      "SkillLevel": 98.06765362078292,
+      "FromSection": {
+        "Content": "114d9987-7c51-f5a0-279d-9ecbc4d4d5a3",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[dʒ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "6bc65774-11fc-b522-35a7-7917588e39eb",
+      "CardID": "887fe08f-aaeb-438d-a8cd-fca083d2cb02"
+    },
+    {
+      "SkillLevel": 99.15609456198654,
+      "FromSection": {
+        "Content": "114d9987-7c51-f5a0-279d-9ecbc4d4d5a3",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "b7bd9304-0c35-c337-12f1-0c904f3693d2",
+      "CardID": "887fe08f-aaeb-438d-a8cd-fca083d2cb02"
+    },
+    {
+      "SkillLevel": 98.75771931831812,
+      "FromSection": {
+        "Content": "114d9987-7c51-f5a0-279d-9ecbc4d4d5a3",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Affricate",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "9e804654-6c7f-4e60-973d-29aab7f7ad65",
+      "CardID": "887fe08f-aaeb-438d-a8cd-fca083d2cb02"
+    },
+    {
+      "SkillLevel": 98.96780862541083,
+      "FromSection": {
+        "Content": "[ɹ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "c02a18e9-5456-55a3-ab62-d1fac5b7af96",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "ad5b3437-4e66-7ab6-9c4f-5bcf3fd113a2",
+      "CardID": "285f82f2-9c90-4be1-a5f3-4ef482009a6a"
+    },
+    {
+      "SkillLevel": 99.1912945509431,
+      "FromSection": {
+        "Content": "c02a18e9-5456-55a3-ab62-d1fac5b7af96",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[ɹ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "2f1f6fb9-afbe-5942-ac99-e1959e69fe49",
+      "CardID": "285f82f2-9c90-4be1-a5f3-4ef482009a6a"
+    },
+    {
+      "SkillLevel": 98.85712086058003,
+      "FromSection": {
+        "Content": "c02a18e9-5456-55a3-ab62-d1fac5b7af96",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Palatal",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "4e0fda06-54d0-e4a4-5a2d-301dca34430b",
+      "CardID": "285f82f2-9c90-4be1-a5f3-4ef482009a6a"
+    },
+    {
+      "SkillLevel": 98.19184392750054,
+      "FromSection": {
+        "Content": "c02a18e9-5456-55a3-ab62-d1fac5b7af96",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Liquid",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "afec3521-da60-b28a-d43e-0812c16122c7",
+      "CardID": "285f82f2-9c90-4be1-a5f3-4ef482009a6a"
+    },
+    {
+      "SkillLevel": 99.97546371162068,
+      "FromSection": {
+        "Content": "[l]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "7b76651c-89f3-f433-3ced-98401719af71",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "46a32a9a-8c15-e62e-8316-62c234f0c0db",
+      "CardID": "748de959-2d96-477b-8f3f-494815bc2f36"
+    },
+    {
+      "SkillLevel": 98.31198782170816,
+      "FromSection": {
+        "Content": "7b76651c-89f3-f433-3ced-98401719af71",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[l]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "672fc145-9f4d-a536-0714-145757952012",
+      "CardID": "748de959-2d96-477b-8f3f-494815bc2f36"
+    },
+    {
+      "SkillLevel": 98.86386616038811,
+      "FromSection": {
+        "Content": "7b76651c-89f3-f433-3ced-98401719af71",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Alveolar",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "92e5bb4a-b58c-6e22-35c3-1c34e3f51b50",
+      "CardID": "748de959-2d96-477b-8f3f-494815bc2f36"
+    },
+    {
+      "SkillLevel": 98.99738783172593,
+      "FromSection": {
+        "Content": "7b76651c-89f3-f433-3ced-98401719af71",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Liquid (Lateral)",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "f2ae6f00-ff62-e67c-8e2d-207a772ac589",
+      "CardID": "748de959-2d96-477b-8f3f-494815bc2f36"
+    },
+    {
+      "SkillLevel": 99.02247346906528,
+      "FromSection": {
+        "Content": "[j]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "591c1e08-3f34-cfd0-b8fe-cfdda2efec62",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "b87533e2-cafa-d189-8692-7d6a1a2f5da1",
+      "CardID": "cfef95bb-af82-42b7-b34a-5bff77e44747"
+    },
+    {
+      "SkillLevel": 99.33794577508041,
+      "FromSection": {
+        "Content": "591c1e08-3f34-cfd0-b8fe-cfdda2efec62",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[j]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "b9970f8d-728e-eac4-1124-aebb78ab6ad6",
+      "CardID": "cfef95bb-af82-42b7-b34a-5bff77e44747"
+    },
+    {
+      "SkillLevel": 99.74426142805049,
+      "FromSection": {
+        "Content": "591c1e08-3f34-cfd0-b8fe-cfdda2efec62",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Palatal",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "4ef92809-7cea-e195-1407-0b0a7314503c",
+      "CardID": "cfef95bb-af82-42b7-b34a-5bff77e44747"
+    },
+    {
+      "SkillLevel": 99.0069915527004,
+      "FromSection": {
+        "Content": "591c1e08-3f34-cfd0-b8fe-cfdda2efec62",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Glide",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "be21f029-b55e-99fd-92f2-c05dda06dd90",
+      "CardID": "cfef95bb-af82-42b7-b34a-5bff77e44747"
+    },
+    {
+      "SkillLevel": 98.87550620952783,
+      "FromSection": {
+        "Content": "[w]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "40af3b87-569c-7446-93b1-50f39d10ec89",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "39211843-d4cf-27c5-9fe0-63c1cb65563d",
+      "CardID": "1dec0fe0-0ee2-4d92-8264-95ccc63c1e80"
+    },
+    {
+      "SkillLevel": 98.20454194251313,
+      "FromSection": {
+        "Content": "40af3b87-569c-7446-93b1-50f39d10ec89",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[w]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "4044c4d2-1eec-1065-b540-039b1470ec82",
+      "CardID": "1dec0fe0-0ee2-4d92-8264-95ccc63c1e80"
+    },
+    {
+      "SkillLevel": 99.96033138914129,
+      "FromSection": {
+        "Content": "40af3b87-569c-7446-93b1-50f39d10ec89",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Bilabial / (Velar)",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "cb21213f-e080-bd79-4c61-37aeffdec2d8",
+      "CardID": "1dec0fe0-0ee2-4d92-8264-95ccc63c1e80"
+    },
+    {
+      "SkillLevel": 98.59657547595268,
+      "FromSection": {
+        "Content": "40af3b87-569c-7446-93b1-50f39d10ec89",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Glide",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "55ad26f3-bf04-db90-9743-7ed1f265c968",
+      "CardID": "1dec0fe0-0ee2-4d92-8264-95ccc63c1e80"
+    },
+    {
+      "SkillLevel": 99.14225227141776,
+      "FromSection": {
+        "Content": "[ʔ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ToSection": {
+        "Content": "bdbfedee-5367-f782-de54-6eeb7adb5a1e",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ID": "6b2be56c-795e-d974-c80c-d62937c642c7",
+      "CardID": "7bbf3492-e52f-45e4-a9f8-18a1fe0b7a82"
+    },
+    {
+      "SkillLevel": 99.780453571916,
+      "FromSection": {
+        "Content": "bdbfedee-5367-f782-de54-6eeb7adb5a1e",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "[ʔ]",
+        "Label": "IPA Symbol",
+        "Type": "TEXT"
+      },
+      "ID": "33440d64-f25e-74af-cce6-2d09d87b5c76",
+      "CardID": "7bbf3492-e52f-45e4-a9f8-18a1fe0b7a82"
+    },
+    {
+      "SkillLevel": 98.18785946527936,
+      "FromSection": {
+        "Content": "bdbfedee-5367-f782-de54-6eeb7adb5a1e",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Glottal",
+        "Label": "Place of Articulation",
+        "Type": "TEXT"
+      },
+      "ID": "5360b9c8-a8e1-04f4-19aa-636d08d074ec",
+      "CardID": "7bbf3492-e52f-45e4-a9f8-18a1fe0b7a82"
+    },
+    {
+      "SkillLevel": 99.53244669341761,
+      "FromSection": {
+        "Content": "bdbfedee-5367-f782-de54-6eeb7adb5a1e",
+        "Label": "Sound",
+        "Type": "AUDIO"
+      },
+      "ToSection": {
+        "Content": "Stop",
+        "Label": "Manner",
+        "Type": "TEXT"
+      },
+      "ID": "dc33f2ac-cda5-5433-f9d2-939d65fda27b",
+      "CardID": "7bbf3492-e52f-45e4-a9f8-18a1fe0b7a82"
+    }
+  ]
+}

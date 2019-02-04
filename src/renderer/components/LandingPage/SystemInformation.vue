@@ -33,6 +33,8 @@
 <script lang="ts">
 import Vue from "vue";
 
+//import { LandingPageController } from "../../../controllers/landingpagecontroller";
+//import { LandingPageSetsViewModel } from "../../../domain/ViewModels/LandingPageSetsViewModel";
 export default Vue.extend({
   data() {
     return {
@@ -41,8 +43,15 @@ export default Vue.extend({
       node: process.versions.node,
       path: "/",
       platform: require("os").platform(),
-      vue: require("vue/package.json").version
+      vue: 'Place Holder',
+      arr: ["A", "B"]
     };
+  }, 
+  methods: {
+
+  }, 
+  created(){
+
   }
 });
 </script>

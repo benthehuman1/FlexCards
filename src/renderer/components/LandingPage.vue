@@ -1,132 +1,96 @@
 <template>
-  <div id="wrapper">
-    <img id="logo" src="~@/assets/logo.png" alt="electron-vue">
-    <main>
-      <div class="left-side">
-        <span class="title">
-          Welcome to your new project!
-        </span>
-        <system-information></system-information>
-      </div>
-
-      <div class="right-side">
-        <div class="doc">
-          <div class="title">Getting Started</div>
-          <p>
-            electron-vue comes packed with detailed documentation that covers everything from
-            internal configurations, using the project structure, building your application,
-            and so much more.
-          </p>
-          <button @click="open('https://simulatedgreg.gitbooks.io/electron-vue/content/')">Read the Docs</button><br><br>
-        </div>
-        <div class="doc">
-          <div class="title alt">Other Documentation</div>
-          <button class="alt" @click="open('https://electron.atom.io/docs/')">Electron</button>
-          <button class="alt" @click="open('https://vuejs.org/v2/guide/')">Vue.js</button>
-        </div>
-      </div>
-    </main>
+<div id="LandingPageRoot" >
+  <div>
+    <h1>flexCards Prototype</h1>
+    <div class="setsLabel-container"><span class="setsLabel">Sets:</span></div>
+    <set-select-button :key="set.ID.toString()"  v-for="set in setsViewModel.sets" :set-name="set.Name" :set-i-d="set.ID.toString()"></set-select-button>
+    <add-set-button v-on:addSet="addNewSet"></add-set-button>
   </div>
+  <div class="footer">
+    Version for Linguisics 101 / 301. Direct any questions to bakizaric@wisc.edu
+  </div>
+</div>
 </template>
 
 <script lang="ts">
 import Vue from "vue";
-import SystemInformation from "./LandingPage/SystemInformation.vue";
+import SetSelectButton  from "./SetSelectButton.vue";
+import AddSetButton  from "./AddSetButton.vue";
+import { LandingPageController } from "../../controllers/landingpagecontroller";
+import { LandingPageSetsViewModel } from "../../domain/ViewModels/LandingPageSetsViewModel";
+import { Guid } from "guid-typescript";
+import { Set } from "../../domain/Entities/Set";
 
 export default Vue.extend({
   name: "landing-page",
-  components: { SystemInformation },
+  data() {
+    return {
+      setsViewModel: {} as LandingPageSetsViewModel,
+      controller: {} as LandingPageController
+    };
+  },
+  components: { SetSelectButton, AddSetButton },
   methods: {
     open(link: string) {
       this.$electron.shell.openExternal(link);
+    },
+    loadSetsViewModel(){
+      this.setsViewModel = this.controller.GetAllSets();
+    },
+    addNewSet(event_setName: string){
+  
+      var newSet = new Set();
+      newSet.Name = event_setName;
+      newSet.ID = Guid.create();
+
+      //These are literally so, so bad
+      newSet.FilePath = "src/data/sets/" + event_setName
+      newSet.CardsPath = "src/data/sets/" + event_setName + "/Cards.json"
+
+      this.controller.CreateNewSet(newSet);
+      this.loadSetsViewModel();
     }
+  }, 
+  created(){
+    this.controller = new LandingPageController();
+    this.loadSetsViewModel();
   }
 });
 </script>
 
-<style>
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
-
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  font-family: "Source Sans Pro", sans-serif;
-}
-
-#wrapper {
-  background: radial-gradient(
-    ellipse at top left,
-    rgba(255, 255, 255, 1) 40%,
-    rgba(229, 229, 229, 0.9) 100%
-  );
-  height: 100vh;
-  padding: 60px 80px;
-  width: 100vw;
-}
-
-#logo {
-  height: auto;
-  margin-bottom: 20px;
-  width: 420px;
-}
-
-main {
-  display: flex;
-  justify-content: space-between;
-}
-
-main > div {
-  flex-basis: 50%;
-}
-
-.left-side {
-  display: flex;
-  flex-direction: column;
-}
-
-.welcome {
-  color: #555;
-  font-size: 23px;
-  margin-bottom: 10px;
-}
-
-.title {
-  color: #2c3e50;
-  font-size: 20px;
-  font-weight: bold;
-  margin-bottom: 6px;
-}
-
-.title.alt {
-  font-size: 18px;
-  margin-bottom: 10px;
-}
-
-.doc p {
-  color: black;
-  margin-bottom: 10px;
-}
-
-.doc button {
-  font-size: 0.8em;
-  cursor: pointer;
-  outline: none;
-  padding: 0.75em 2em;
-  border-radius: 2em;
-  display: inline-block;
-  color: #fff;
-  background-color: #4fc08d;
-  transition: all 0.15s ease;
-  box-sizing: border-box;
-  border: 1px solid #4fc08d;
-}
-
-.doc button.alt {
-  color: #42b983;
-  background-color: transparent;
-}
+<style scoped>
+  #LandingPageRoot{
+    display: flex;
+    justify-content: center;
+  }
+  .add-set-button{
+        background-color: lightgray;
+        margin: 10px;
+        height: 40px;
+        border-radius: 15px;
+        display: flex;
+        justify-content: center;
+        box-shadow: 3px 3px 10px rgba(50, 50, 50, 0.65);
+  }
+  .add-set-button:hover{
+      background-color: gray;
+  }
+  .button-text{
+      margin: auto;
+  }
+  .setsLabel{
+    text-align: center;
+    font-size: 22px;
+    margin: auto;
+  }
+  .setsLabel-container{
+    display: flex;
+    height: 22px;
+  }
+  .footer{
+    position: absolute;
+    text-align: center;
+    font-size: 12px;
+    bottom: 4px;
+  }
 </style>
